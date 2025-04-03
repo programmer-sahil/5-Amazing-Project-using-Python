@@ -1,3 +1,12 @@
 # 5-Amazing-Project-using-Python
 
+
+
+# Project 1: Link shortner
 <img width="1059" alt="image" src="https://github.com/user-attachments/assets/0efd722c-7da8-4d54-b598-4a0ab6efe295" />
+
+
+
+# Password Generator
+<img width="493" alt="image" src="https://github.com/user-attachments/assets/d1195e06-65fd-4854-bcea-235b98292aaa" />
+
