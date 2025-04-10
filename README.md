@@ -14,3 +14,6 @@
 <img width="637" alt="image" src="https://github.com/user-attachments/assets/02a406f8-8584-4402-a7e5-501e8b36f094" />
 
 
+
+# Project 4: word_guessing_game
+<img width="265" alt="image" src="https://github.com/user-attachments/assets/8dfaabe4-5907-4e8c-a22d-705f6068d489" />
